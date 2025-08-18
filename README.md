@@ -75,10 +75,14 @@ V 1.5.7 has adjusted the refresh probability of monsters in this mod based on ac
 V 1.6.0 Based on the actual gameplay situation, the monsters in the mod seem to affect the refresh of general monsters, so they have been removed. The fallen objects were added to the supply pack and the refresh probability of some minerals was adjusted.
 
 V 1.6.2 modified the UI images of some tools and props, added an immortal skin changing card and its formula, and added two immortal weapon skins.
-【 Post production Preview: Immortal Weapon Skin<1.6.5 Added Immortal Skin for Ancient Sword>+Updated 3D Images of Some Collectibles+Christmas Series Skin<1.6.5 Partially Completed, Consider Adding More>+Technology Series Skin 】
+【 Post production Preview: Immortal Weapon Skin<1.6.5 Added Immortal Skin for Ancient Sword>+Updated 3D Images of Some Collectibles+Christmas Series Skin<**1.6.5 Partially Completed, Consider Adding More**>+Technology Series Skin 】
 
 V 1.6.5 modified some UI images of armor, added some special skins (Christmas Sword+Laser Sword), and added some necessary formulas and props; And some erroneous parameters were corrected, and some tool parameters were adjusted.
-【 Post production preview: More immortal weapon skins<1.7.0 completed>+New armor and armor skins<1.7.0 completed>+Activate secondary reconstruction of iron and diamond<1.7.3 completed>+Activate reconstruction of gold<1.7.3 completed>+Technology series skins<Lack of inspiration, 1.7.0 note>+Updated 3D images of collectibles 】
+【 Post production preview: More immortal weapon skins<1.7.0 completed>+New armor and armor skins<**1.7.0 completed**>+Activate secondary reconstruction of iron and diamond<**1.7.3 completed**>+Activate reconstruction of gold<**1.7.3 completed**>+Technology series skins<**Lack of inspiration, 1.7.0 note**>+Updated 3D images of collectibles 】
+
 V 1.6.7 modified some incorrect parameters (in mods and Excel), added some "high-level skins", and added a set of immortal skins for the golden set.
-V 1.7.0 has added the Xiaoyan Xiaowang set skins (independent skin cards, replacing the battle bone set), as well as the Xiaoyan Xiaowang long sword (replacing the ancient battle sword), adding some "high-level skins" and adding the immortal skin of the Silver Sword. [Post production preview: Add some collectibles, start the secondary reconstruction of iron and diamonds<1.7.3 completed>, start the reconstruction of gold<1.7.3 completed>]
+
+V 1.7.0 has added the Xiaoyan Xiaowang set skins (independent skin cards, replacing the battle bone set), as well as the Xiaoyan Xiaowang long sword (replacing the ancient battle sword), adding some "high-level skins" and adding the immortal skin of the Silver Sword. 
+[Post production preview: Add some collectibles, start the secondary reconstruction of iron and diamonds<**1.7.3 completed**>, start the reconstruction of gold<**1.7.3 completed**>]
+
 V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and primary recasting of gold, which can be used to synthesize armor. Added a collectible: Heart of Africa, but no synthesis method has been added yet. Added light effects to some skin cards.
