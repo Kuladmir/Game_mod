@@ -42,3 +42,43 @@ V 1.7.0 添加了小妍小王套装皮肤（独立的皮肤卡，替换战骨套
 【后期预告：添加一些收藏品，开启铁和钻石的二次再造<**1.7.3完成**>，开启金的再造<**1.7.3完成**>】
 
 V 1.7.3 添加了铁和钻石的二次重铸（终铁/末钻），添加了金的一次重铸，分别可以用其合成盔甲。添加了一个收藏品：非洲之心，但暂未添加合成方法。给一些皮肤卡添加了光效。
+### Instructions
+
+### 1. Unless otherwise specified, all files in this folder are mods of Minecraft, version 1.12.2, and other versions have not been tested yet;
+
+### 2. The mod will be updated irregularly and introduce new content.
+
+### 3. The update time is uncertain.
+
+### Update Info.
+
+V 1.1.0 has corrected some props that cannot be synthesized, adjusted the effects of some props, and optimized the synthesis formula.
+
+V 1.2.0 has added some props and formulas, but has not yet added naturally generated components, and some prop images have been modified.
+
+V 1.3.0 has added some new props and formulas.
+
+V 1.3.3 has added some missing formulas and reserved some blocks for updating.
+
+V 1.4.0 has added some collectibles, but the synthesis plan has not been added yet. It will be gradually added in the future.
+
+V 1.4.2 has added some synthesis schemes for collectibles, but some have not been added yet due to a lack of inspiration.
+
+V 1.5.0 has added the current synthesis scheme for collectibles, adjusted some of the synthesis schemes for collectibles, and added some necessary intermediate props.
+
+V 1.5.3 has added skins for iron tools, added props related to the Gemini Morning Star, and added some food.
+
+V 1.5.4 has reduced the refresh probability of silver mines and ruby mines based on actual gameplay, and adjusted the refresh probability of some monsters.
+
+V 1.5.7 has adjusted the refresh probability of monsters in this mod based on actual gameplay. Added fake diamond mines? Function: Synthesize supply packages to obtain some supplies, which will continue to be added in the future.
+
+V 1.6.0 Based on the actual gameplay situation, the monsters in the mod seem to affect the refresh of general monsters, so they have been removed. The fallen objects were added to the supply pack and the refresh probability of some minerals was adjusted.
+
+V 1.6.2 modified the UI images of some tools and props, added an immortal skin changing card and its formula, and added two immortal weapon skins.
+【 Post production Preview: Immortal Weapon Skin<1.6.5 Added Immortal Skin for Ancient Sword>+Updated 3D Images of Some Collectibles+Christmas Series Skin<1.6.5 Partially Completed, Consider Adding More>+Technology Series Skin 】
+
+V 1.6.5 modified some UI images of armor, added some special skins (Christmas Sword+Laser Sword), and added some necessary formulas and props; And some erroneous parameters were corrected, and some tool parameters were adjusted.
+【 Post production preview: More immortal weapon skins<1.7.0 completed>+New armor and armor skins<1.7.0 completed>+Activate secondary reconstruction of iron and diamond<1.7.3 completed>+Activate reconstruction of gold<1.7.3 completed>+Technology series skins<Lack of inspiration, 1.7.0 note>+Updated 3D images of collectibles 】
+V 1.6.7 modified some incorrect parameters (in mods and Excel), added some "high-level skins", and added a set of immortal skins for the golden set.
+V 1.7.0 has added the Xiaoyan Xiaowang set skins (independent skin cards, replacing the battle bone set), as well as the Xiaoyan Xiaowang long sword (replacing the ancient battle sword), adding some "high-level skins" and adding the immortal skin of the Silver Sword. [Post production preview: Add some collectibles, start the secondary reconstruction of iron and diamonds<1.7.3 completed>, start the reconstruction of gold<1.7.3 completed>]
+V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and primary recasting of gold, which can be used to synthesize armor. Added a collectible: Heart of Africa, but no synthesis method has been added yet. Added light effects to some skin cards.
