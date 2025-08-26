@@ -42,6 +42,9 @@ V 1.7.0 添加了小妍小王套装皮肤（独立的皮肤卡，替换战骨套
 【后期预告：添加一些收藏品，开启铁和钻石的二次再造<**1.7.3完成**>，开启金的再造<**1.7.3完成**>】
 
 V 1.7.3 添加了铁和钻石的二次重铸（终铁/末钻），添加了金的一次重铸，分别可以用其合成盔甲。添加了一个收藏品：非洲之心，但暂未添加合成方法。给一些皮肤卡添加了光效。
+
+V 1.7.6 添加了黑石矿，用以制造三种不同强度的系列武器（后续会开放武器升级），并且推出新的黑石矿对应的盔甲。调整了再造铁盔甲和再造钻石盔甲的显示图，调整了其UI图。
+
 ### Instructions
 
 ### 1. Unless otherwise specified, all files in this folder are mods of Minecraft, version 1.12.2, and other versions have not been tested yet;
@@ -86,3 +89,5 @@ V 1.7.0 has added the Xiaoyan Xiaowang set skins (independent skin cards, replac
 [Post production preview: Add some collectibles, start the secondary reconstruction of iron and diamonds<**1.7.3 completed**>, start the reconstruction of gold<**1.7.3 completed**>]
 
 V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and primary recasting of gold, which can be used to synthesize armor. Added a collectible: Heart of Africa, but no synthesis method has been added yet. Added light effects to some skin cards.
+
+V 1.7.6 adds Blackstone Ore, which can be used to craft three series of weapons of varying strengths (weapon upgrades will be available later), and introduces new armor corresponding to Blackstone Ore. The display and UI images of Reclaimed Iron Armor and Reclaimed Diamond Armor have been adjusted.
