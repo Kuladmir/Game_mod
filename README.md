@@ -90,4 +90,4 @@ V 1.7.0 has added the Xiaoyan Xiaowang set skins (independent skin cards, replac
 
 V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and primary recasting of gold, which can be used to synthesize armor. Added a collectible: Heart of Africa, but no synthesis method has been added yet. Added light effects to some skin cards.
 
-V 1.7.6 adds Blackstone Ore, which can be used to craft three series of weapons of varying strengths (weapon upgrades will be available later), and introduces new armor corresponding to Blackstone Ore. The display and UI images of Reclaimed Iron Armor and Reclaimed Diamond Armor have been adjusted.
+V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons of varying strengths (weapon upgrades will be available later), and introduces new armor corresponding to Blackstone Ore. The display and UI images of Reclaimed Iron Armor and Reclaimed Diamond Armor have been adjusted.
