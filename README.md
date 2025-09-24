@@ -45,7 +45,9 @@ V 1.7.3 添加了铁和钻石的二次重铸（终铁/末钻），添加了金�
 
 V 1.7.6 添加了黑石矿，用以制造三种不同强度的系列武器（后续会开放武器升级），并且推出新的黑石矿对应的盔甲。调整了再造铁盔甲和再造钻石盔甲的显示图，调整了其UI图。
 
-## 重要说明：由于MCreator程序报错，因此重新构建了工作站；后续的内容将以新的mod展示====================================================
+## 重要说明：由于MCreator程序报错，因此重新构建了工作站；后续的内容将以新的mod展示
+
+---
 
 ### Instructions
 
@@ -94,4 +96,6 @@ V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and
 
 V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons of varying strengths (weapon upgrades will be available later), and introduces new armor corresponding to Blackstone Ore. The display and UI images of Reclaimed Iron Armor and Reclaimed Diamond Armor have been adjusted.
 
-## Important Note: Due to an error reported by the MCreator program, the workstation has been rebuilt; subsequent content will be displayed in the new mod format====================================================
+## Important Note: Due to an error reported by the MCreator program, the workstation has been rebuilt; subsequent content will be displayed in the new mod format
+
+---
