@@ -47,6 +47,10 @@ V 1.7.6 添加了黑石矿，用以制造三种不同强度的系列武器（后
 
 ## 重要说明：由于MCreator程序报错，因此重新构建了工作站；后续的内容将以新的mod展示
 
+### Wonderful_World_Extension Update
+
+V 1.0.0 正式开始更新，此版本包含了一套盔甲（Maxtac）和一套皮肤（十字军-铁套装），并包含了一些装饰性方块和功能性道具。【后期预告：添加更多装饰性方块，添加更多装备皮肤和全新装备，并和其他游戏/文化产品联动】
+
 ---
 
 ### Instructions
@@ -97,5 +101,9 @@ V 1.7.3 added secondary recasting of iron and diamonds (final iron/diamond), and
 V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons of varying strengths (weapon upgrades will be available later), and introduces new armor corresponding to Blackstone Ore. The display and UI images of Reclaimed Iron Armor and Reclaimed Diamond Armor have been adjusted.
 
 ## Important Note: Due to an error reported by the MCreator program, the workstation has been rebuilt; subsequent content will be displayed in the new mod format
+
+### Wonderful_World_Extension Update
+
+V 1.0.0 The update has officially begun. This version includes a set of armor (Maxtac) and a skin set (Crusader-Iron Suit), along with some decorative blocks and functional items. [Later preview: Adding more decorative blocks, more equipment skins and new gear, as well as collaborations with other games/cultural products.]
 
 ---
