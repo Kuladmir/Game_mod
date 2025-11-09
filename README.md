@@ -53,6 +53,8 @@ V 1.0.0 正式开始更新，此版本包含了一套盔甲（Maxtac）和一套
 
 V 1.1.0 添加了一些联动（格赫罗斯补给包）、（饥荒元素：铥矿/铥矿盔甲/铥矿棒），以及一套新的钻石套装皮肤。
 
+V 1.2.0 添加了一些魔法武器，新的魔法武器已在路上，更新了一些新的皮肤，特别是Maxtac装备。
+
 ---
 
 ### Instructions
@@ -109,5 +111,7 @@ V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons
 V 1.0.0 The update has officially begun. This version includes a set of armor (Maxtac) and a skin set (Crusader-Iron Suit), along with some decorative blocks and functional items. [Later preview: Adding more decorative blocks, more equipment skins and new gear, as well as collaborations with other games/cultural products.]
 
 V 1.1.0 has added some cross-game items (Ghros Supply Pack), (Don't Starve elements: Tungsten Ore/Tungsten Armor/Tungsten Stick), and a new diamond set skin.
+
+V 1.2.0 has added some magical weapons, new magical weapons are on the way, and some new skins have been updated, especially for Maxtac equipment.
 
 ---
