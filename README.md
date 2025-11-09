@@ -51,6 +51,8 @@ V 1.7.6 添加了黑石矿，用以制造三种不同强度的系列武器（后
 
 V 1.0.0 正式开始更新，此版本包含了一套盔甲（Maxtac）和一套皮肤（十字军-铁套装），并包含了一些装饰性方块和功能性道具。【后期预告：添加更多装饰性方块，添加更多装备皮肤和全新装备，并和其他游戏/文化产品联动】
 
+V 1.1.0 添加了一些联动（格赫罗斯补给包）、（饥荒元素：铥矿/铥矿盔甲/铥矿棒），以及一套新的钻石套装皮肤。
+
 ---
 
 ### Instructions
@@ -105,5 +107,7 @@ V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons
 ### Wonderful_World_Extension Update
 
 V 1.0.0 The update has officially begun. This version includes a set of armor (Maxtac) and a skin set (Crusader-Iron Suit), along with some decorative blocks and functional items. [Later preview: Adding more decorative blocks, more equipment skins and new gear, as well as collaborations with other games/cultural products.]
+
+V 1.1.0 has added some cross-game items (Ghros Supply Pack), (Don't Starve elements: Tungsten Ore/Tungsten Armor/Tungsten Stick), and a new diamond set skin.
 
 ---
