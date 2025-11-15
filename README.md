@@ -57,6 +57,8 @@ V 1.2.0 添加了一些魔法武器，新的魔法武器已在路上，更新了
 
 V 1.2.3 添加了一套武器皮肤，后续版本将补齐未添加合成配方，并提供第一个可充足游玩的mod版本，同时修改了一些参数问题。
 
+V 1.2.5 添加了一些合成配方。
+
 ---
 
 ### Instructions
@@ -117,5 +119,7 @@ V 1.1.0 has added some cross-game items (Ghros Supply Pack), (Don't Starve eleme
 V 1.2.0 has added some magical weapons, new magical weapons are on the way, and some new skins have been updated, especially for Maxtac equipment.
 
 V 1.2.3 has added a series of sward skins. Subsequent versions will complete the missing crafting recipes and provide the first fully playable mod version, while also addressing some parameter-related issues.
+
+V 1.2.5 has added a series of crafting recipes.
 
 ---
