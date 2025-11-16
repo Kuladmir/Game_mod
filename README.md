@@ -59,6 +59,8 @@ V 1.2.3 添加了一套武器皮肤，后续版本将补齐未添加合成配方
 
 V 1.2.5 添加了一些合成配方。
 
+V 1.3.0 添加了一些斧/镐的皮肤和合成方法，添加了一些高级魔法杖。
+
 ---
 
 ### Instructions
@@ -121,5 +123,7 @@ V 1.2.0 has added some magical weapons, new magical weapons are on the way, and 
 V 1.2.3 has added a series of sward skins. Subsequent versions will complete the missing crafting recipes and provide the first fully playable mod version, while also addressing some parameter-related issues.
 
 V 1.2.5 has added a series of crafting recipes.
+
+V 1.3.0 has added some skins and crafting methods for axes and pickaxes, as well as some advanced magic wands.
 
 ---
