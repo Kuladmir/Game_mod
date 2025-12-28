@@ -61,6 +61,8 @@ V 1.2.5 添加了一些合成配方。
 
 V 1.3.0 添加了一些斧/镐的皮肤和合成方法，添加了一些高级魔法杖。
 
+V 1.5.0 添加了两套铥套装皮肤，以及两把高级魔法杖的皮肤。警棍现在已经可以使用，以及其配套的强化和皮肤也已推出。修改了一些参数问题。
+
 ---
 
 ### Instructions
@@ -125,5 +127,7 @@ V 1.2.3 has added a series of sward skins. Subsequent versions will complete the
 V 1.2.5 has added a series of crafting recipes.
 
 V 1.3.0 has added some skins and crafting methods for axes and pickaxes, as well as some advanced magic wands.
+
+V 1.5.0 has added two sets of Thulium outfit skins, as well as skins for two advanced magic wands. The baton is now usable, and its corresponding enhancements and skins have also been released. Some parameter issues have been adjusted.
 
 ---
