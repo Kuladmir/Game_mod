@@ -63,6 +63,8 @@ V 1.3.0 添加了一些斧/镐的皮肤和合成方法，添加了一些高级�
 
 V 1.5.0 添加了两套铥套装皮肤，以及两把高级魔法杖的皮肤。警棍现在已经可以使用，以及其配套的强化和皮肤也已推出。修改了一些参数问题。
 
+V 1.5.6 添加了一套铁盔甲皮肤（圣殿骑士套装），以及钻石剑（皮肤版）的强化合成方案与装备，并完善了缺失的合成方案。【后期预告：高级合成书将能够允许玩家合成一些原版无法合成的物品。例如鞘翅】
+
 ---
 
 ### Instructions
@@ -129,5 +131,7 @@ V 1.2.5 has added a series of crafting recipes.
 V 1.3.0 has added some skins and crafting methods for axes and pickaxes, as well as some advanced magic wands.
 
 V 1.5.0 has added two sets of Thulium outfit skins, as well as skins for two advanced magic wands. The baton is now usable, and its corresponding enhancements and skins have also been released. Some parameter issues have been adjusted.
+
+V 1.5.6 has added a set of iron armor skins (Templar set), as well as an enhanced crafting recipe and equipment for the diamond sword (skin version), and completed missing crafting recipes. [Future preview: Advanced crafting books will allow players to craft some items that cannot be crafted in the original version, such as Elytra wings.]
 
 ---
