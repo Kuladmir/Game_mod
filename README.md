@@ -1,10 +1,10 @@
-### 说明
+### 中文说明
 
 #### 1.如无特别说明，本文件夹内的所有文件都是我的世界的mod，版本适用于1.12.2，其他版本暂未测试；
 #### 2.mod会不定期更新，并引入新的内容。
 #### 3.更新时间不定qwq。
 
-### Update Info.
+### Wonderful World [mod] Update Info.
 
 V 1.1.0 修正了一些道具无法合成，对部分道具的效果进行了调整，对合成配方进行了一些优化。
 
@@ -47,7 +47,7 @@ V 1.7.6 添加了黑石矿，用以制造三种不同强度的系列武器（后
 
 ## 重要说明：由于MCreator程序报错，因此重新构建了工作站；后续的内容将以新的mod展示
 
-### Wonderful_World_Extension Update
+### Wonderful_World_Extension [mod] Update
 
 V 1.0.0 正式开始更新，此版本包含了一套盔甲（Maxtac）和一套皮肤（十字军-铁套装），并包含了一些装饰性方块和功能性道具。【后期预告：添加更多装饰性方块，添加更多装备皮肤和全新装备，并和其他游戏/文化产品联动】
 
@@ -65,9 +65,13 @@ V 1.5.0 添加了两套铥套装皮肤，以及两把高级魔法杖的皮肤。
 
 V 1.5.6 添加了一套铁盔甲皮肤（圣殿骑士套装），以及钻石剑（皮肤版）的强化合成方案与装备，并完善了缺失的合成方案。【后期预告：高级合成书将能够允许玩家合成一些原版无法合成的物品。例如鞘翅】
 
+V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过加入一些转化币，合成钻石。令人惊讶的是，经典MC中无法合成的基岩和鞘翅也已有了新的配方。另外补充了一些未加入的合成配方。【后期预告：越王八剑将逐渐开放合成】
+
 ---
 
-### Instructions
+---
+
+### English Instructions
 
 ### 1. Unless otherwise specified, all files in this folder are mods of Minecraft, version 1.12.2, and other versions have not been tested yet;
 
@@ -75,7 +79,7 @@ V 1.5.6 添加了一套铁盔甲皮肤（圣殿骑士套装），以及钻石剑
 
 ### 3. The update time is uncertain.
 
-### Update Info.
+### Wonderful World [mod] Update Info.
 
 V 1.1.0 has corrected some props that cannot be synthesized, adjusted the effects of some props, and optimized the synthesis formula.
 
@@ -116,7 +120,7 @@ V 1.7.6 added Blackstone Ore, which can be used to craft three series of weapons
 
 ## Important Note: Due to an error reported by the MCreator program, the workstation has been rebuilt; subsequent content will be displayed in the new mod format
 
-### Wonderful_World_Extension Update
+### Wonderful_World_Extension [mod] Update
 
 V 1.0.0 The update has officially begun. This version includes a set of armor (Maxtac) and a skin set (Crusader-Iron Suit), along with some decorative blocks and functional items. [Later preview: Adding more decorative blocks, more equipment skins and new gear, as well as collaborations with other games/cultural products.]
 
@@ -133,5 +137,7 @@ V 1.3.0 has added some skins and crafting methods for axes and pickaxes, as well
 V 1.5.0 has added two sets of Thulium outfit skins, as well as skins for two advanced magic wands. The baton is now usable, and its corresponding enhancements and skins have also been released. Some parameter issues have been adjusted.
 
 V 1.5.6 has added a set of iron armor skins (Templar set), as well as an enhanced crafting recipe and equipment for the diamond sword (skin version), and completed missing crafting recipes. [Future preview: Advanced crafting books will allow players to craft some items that cannot be crafted in the original version, such as Elytra wings.]
+
+V 1.6.6 added some new transformation crafting strategies. For example, you can turn gold ingots into diamonds by adding some transformation coins. Surprisingly, even bedrock and elytra, which couldn't be crafted in classic MC, now have new recipes. Additionally, some previously missing crafting recipes have been added. [Future preview: The Eight Swords of King Yue will gradually become craftable]
 
 ---
