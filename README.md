@@ -73,11 +73,11 @@ V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过
 
 ### English Instructions
 
-### 1. Unless otherwise specified, all files in this folder are mods of Minecraft, version 1.12.2, and other versions have not been tested yet;
+#### 1. Unless otherwise specified, all files in this folder are mods of Minecraft, version 1.12.2, and other versions have not been tested yet;
 
-### 2. The mod will be updated irregularly and introduce new content.
+#### 2. The mod will be updated irregularly and introduce new content.
 
-### 3. The update time is uncertain.
+#### 3. The update time is uncertain.
 
 ### Wonderful World [mod] Update Info.
 
