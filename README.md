@@ -142,6 +142,6 @@ V 1.5.6 has added a set of iron armor skins (Templar set), as well as an enhance
 
 V 1.6.6 added some new transformation crafting strategies. For example, you can turn gold ingots into diamonds by adding some transformation coins. Surprisingly, even bedrock and elytra, which couldn't be crafted in classic MC, now have new recipes. Additionally, some previously missing crafting recipes have been added. [Future preview: The Eight Swords of King Yue will gradually become craftable]
 
-V 1.7.0 adds some medals. You can synthesize some special reward honors by combining items that have reached their storage limit. These medals can also contribute to your attributes later on. More medals will be introduced in the future.
+V 1.7.0 has added some medals. You can synthesize some special reward honors by combining items that have reached their storage limit. These medals can also contribute to your attributes later on. More medals will be introduced in the future.
 
 ---
