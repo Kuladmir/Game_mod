@@ -67,6 +67,8 @@ V 1.5.6 添加了一套铁盔甲皮肤（圣殿骑士套装），以及钻石剑
 
 V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过加入一些转化币，合成钻石。令人惊讶的是，经典MC中无法合成的基岩和鞘翅也已有了新的配方。另外补充了一些未加入的合成配方。【后期预告：越王八剑将逐渐开放合成】
 
+V 1.7.0 添加了一些勋章，你可以通过合成已经爆仓的物品，来合成一些特殊的奖励荣誉。这些勋章之后也能为你的属性做出贡献。之后会出现更多勋章。
+
 ---
 
 ---
@@ -139,5 +141,7 @@ V 1.5.0 has added two sets of Thulium outfit skins, as well as skins for two adv
 V 1.5.6 has added a set of iron armor skins (Templar set), as well as an enhanced crafting recipe and equipment for the diamond sword (skin version), and completed missing crafting recipes. [Future preview: Advanced crafting books will allow players to craft some items that cannot be crafted in the original version, such as Elytra wings.]
 
 V 1.6.6 added some new transformation crafting strategies. For example, you can turn gold ingots into diamonds by adding some transformation coins. Surprisingly, even bedrock and elytra, which couldn't be crafted in classic MC, now have new recipes. Additionally, some previously missing crafting recipes have been added. [Future preview: The Eight Swords of King Yue will gradually become craftable]
+
+V 1.7.0 adds some medals. You can synthesize some special reward honors by combining items that have reached their storage limit. These medals can also contribute to your attributes later on. More medals will be introduced in the future.
 
 ---
