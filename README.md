@@ -69,6 +69,8 @@ V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过
 
 V 1.7.0 添加了一些勋章，你可以通过合成已经爆仓的物品，来合成一些特殊的奖励荣誉。这些勋章之后也能为你的属性做出贡献。之后会出现更多勋章。
 
+V 1.7.4 添加了三把升级武器，他们已经到达了最高等级。添加了一些必要的合成配方。我们认为，后面可以添加一些不同的盲盒，这样可以获得很多不可思议的奖励。
+
 ---
 
 ---
@@ -144,4 +146,5 @@ V 1.6.6 added some new transformation crafting strategies. For example, you can 
 
 V 1.7.0 has added some medals. You can synthesize some special reward honors by combining items that have reached their storage limit. These medals can also contribute to your attributes later on. More medals will be introduced in the future.
 
+V 1.7.4 Three upgraded weapons have been added, and they have already reached the highest level. Some necessary crafting recipes have been added. We think that later on, we can add some different mystery boxes, which can give a lot of amazing rewards.
 ---
