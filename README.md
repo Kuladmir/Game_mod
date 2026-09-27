@@ -71,6 +71,8 @@ V 1.7.0 添加了一些勋章，你可以通过合成已经爆仓的物品，来
 
 V 1.7.4 添加了三把升级武器，他们已经到达了最高等级。添加了一些必要的合成配方。我们认为，后面可以添加一些不同的盲盒，这样可以获得很多不可思议的奖励。
 
+V 1.7.6 添加并修正了一个重要的bug，添加了一些残片，这样后续就可以加入更多史诗级配方。
+
 ---
 
 ---
@@ -147,4 +149,7 @@ V 1.6.6 added some new transformation crafting strategies. For example, you can 
 V 1.7.0 has added some medals. You can synthesize some special reward honors by combining items that have reached their storage limit. These medals can also contribute to your attributes later on. More medals will be introduced in the future.
 
 V 1.7.4 Three upgraded weapons have been added, and they have already reached the highest level. Some necessary crafting recipes have been added. We think that later on, we can add some different mystery boxes, which can give a lot of amazing rewards.
+
+V 1.7.6 has added and corrected an important bug and added a series of pieces for more epic recipes.
+
 ---
