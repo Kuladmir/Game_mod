@@ -38,7 +38,7 @@ V 1.6.5 修改了一些护甲的UI图像，添加了一些特殊皮肤（圣诞�
 
 V 1.6.7 修改了一些错误的参数（mod和Excel里的），添加了一些“高水平皮肤”，添加了一套黄金套装的不朽皮肤。
 
-V 1.7.0 添加了小妍小王套装皮肤（独立的皮肤卡，替换战骨套装），以及小妍小王长剑（替换远古战剑），补充了一些“高水平皮肤”，添加了银剑的不朽皮肤。
+V 1.7.0 添加了----套装皮肤（独立的皮肤卡，替换战骨套装），以及----长剑（替换远古战剑），补充了一些“高水平皮肤”，添加了银剑的不朽皮肤。
 【后期预告：添加一些收藏品，开启铁和钻石的二次再造<**1.7.3完成**>，开启金的再造<**1.7.3完成**>】
 
 V 1.7.3 添加了铁和钻石的二次重铸（终铁/末钻），添加了金的一次重铸，分别可以用其合成盔甲。添加了一个收藏品：非洲之心，但暂未添加合成方法。给一些皮肤卡添加了光效。
@@ -65,13 +65,15 @@ V 1.5.0 添加了两套铥套装皮肤，以及两把高级魔法杖的皮肤。
 
 V 1.5.6 添加了一套铁盔甲皮肤（圣殿骑士套装），以及钻石剑（皮肤版）的强化合成方案与装备，并完善了缺失的合成方案。【后期预告：高级合成书将能够允许玩家合成一些原版无法合成的物品。例如鞘翅】
 
-V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过加入一些转化币，合成钻石。令人惊讶的是，经典MC中无法合成的基岩和鞘翅也已有了新的配方。另外补充了一些未加入的合成配方。【后期预告：越王八剑将逐渐开放合成】
+V 1.6.6 添加了一些新的转化合成策略，例如可以将金锭，通过加入一些转化币，合成钻石。令人惊讶地是，经典MC中无法合成的基岩和鞘翅也已有了新的配方。另外补充了一些未加入的合成配方。【后期预告：越王八剑将逐渐开放合成】
 
 V 1.7.0 添加了一些勋章，你可以通过合成已经爆仓的物品，来合成一些特殊的奖励荣誉。这些勋章之后也能为你的属性做出贡献。之后会出现更多勋章。
 
 V 1.7.4 添加了三把升级武器，他们已经到达了最高等级。添加了一些必要的合成配方。我们认为，后面可以添加一些不同的盲盒，这样可以获得很多不可思议的奖励。
 
 V 1.7.6 添加并修正了一个重要的bug，添加了一些残片，这样后续就可以加入更多史诗级配方。
+
+V 1.8.0 添加了多把越王剑系列，现在高兴地是可以获得六件原始越王剑，还有对应的两件皮肤，总计十八把。黄金皮肤卡现在不再是浪费，可以合成一些黄金工具皮肤版。添加和修正了一些配方和bug。同时也添加了一些抽奖元素，补充了MC无法抽卡的问题（·v·）。
 
 ---
 
@@ -151,5 +153,7 @@ V 1.7.0 has added some medals. You can synthesize some special reward honors by 
 V 1.7.4 Three upgraded weapons have been added, and they have already reached the highest level. Some necessary crafting recipes have been added. We think that later on, we can add some different mystery boxes, which can give a lot of amazing rewards.
 
 V 1.7.6 has added and corrected an important bug and added a series of pieces for more epic recipes.
+
+V 1.8.0 the Yuewang Sword series has been added, and now happily, you can obtain six original Yuewang swords, as well as two corresponding skins, totaling eighteen pieces. The Gold Skin Card is no longer a waste; it can be used to craft some Gold Tool Skin versions. Several recipes and bugs have been added and fixed. Additionally, some lottery elements have been introduced to address the issue where Minecraft (MC) couldn't draw cards (·v·).
 
 ---
