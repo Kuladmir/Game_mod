@@ -36,6 +36,8 @@ V 1.7.6 添加并修正了一个重要的bug，添加了一些残片，这样后
 
 V 1.8.0 添加了多把越王剑系列，现在高兴地是可以获得六件原始越王剑，还有对应的两件皮肤，总计十八把。黄金皮肤卡现在不再是浪费，可以合成一些黄金工具皮肤版。添加和修正了一些配方和bug。同时也添加了一些抽奖元素，补充了MC无法抽卡的问题（·v·）。
 
+V 1.8.2 添加了一把白起剑，调整了一些武器的数值，修正了一些bug，添加了一些缺失的配方。
+
 ### Wonderful_World_Extension [mod] Update Informatino [Updating]
 
 V 1.0.0 The update has officially begun. This version includes a set of armor (Maxtac) and a skin set (Crusader-Iron Suit), along with some decorative blocks and functional items. [Later preview: Adding more decorative blocks, more equipment skins and new gear, as well as collaborations with other games/cultural products.]
@@ -63,6 +65,8 @@ V 1.7.4 Three upgraded weapons have been added, and they have already reached th
 V 1.7.6 has added and corrected an important bug and added a series of pieces for more epic recipes.
 
 V 1.8.0 the Yuewang Sword series has been added, and now happily, you can obtain six original Yuewang swords, as well as two corresponding skins, totaling eighteen pieces. The Gold Skin Card is no longer a waste; it can be used to craft some Gold Tool Skin versions. Several recipes and bugs have been added and fixed. Additionally, some lottery elements have been introduced to address the issue where Minecraft (MC) couldn't draw cards (·v·).
+
+V 1.8.2 added a Baiqi sword, adjusted the stats of some weapons, fixed some bugs, and added some missing recipes.
 
 ---
 
